@@ -1,0 +1,6 @@
+stk_backend.content:
+  path: '/services'
+  defaults: 
+    _controller: '\Drupal\stk_backend\Controller\StkServicesController::content'
+  requirements:
+    _permission: 'access content'

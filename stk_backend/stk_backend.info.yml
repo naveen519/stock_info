@@ -1,0 +1,6 @@
+name: Backend services
+description: Module for calling backend services
+package: Stock_info
+
+type: module
+core: 8.x
